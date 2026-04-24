@@ -179,3 +179,5 @@ if ( isset($pdf) ) {
 } else {
     json_encode(array('status' => false, 'message' => 'something Went Wrong'));
 }
+
+//echo update 2.0
